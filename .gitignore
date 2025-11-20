@@ -1,0 +1,32 @@
+# ------------ Python Virtual Environment ------------
+rfenv/
+venv/
+.env/
+.venv/
+
+# ------------ Python Cache Files ------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ------------ Robot Framework Logs / Reports ------------
+output.xml
+report.html
+log.html
+*.png
+*.svg
+
+# ------------ VS Code ------------
+.vscode/
+.history/
+
+# ------------ macOS Finder Garbage ------------
+.DS_Store
+
+# ------------ PyCharm / JetBrains ------------
+.idea/
+
+# ------------ Temporary Files ------------
+*.tmp
+*.log
